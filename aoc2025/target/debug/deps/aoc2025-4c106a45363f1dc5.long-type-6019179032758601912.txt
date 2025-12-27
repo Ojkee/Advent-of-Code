@@ -1,0 +1,1 @@
+Map<Filter<Map<std::str::Split<'_, &str>, {closure@src/day3.rs:35:14: 35:20}>, {closure@src/day3.rs:36:17: 36:23}>, for<'a> fn(&'a str) -> str {calc_joltage_12}>
